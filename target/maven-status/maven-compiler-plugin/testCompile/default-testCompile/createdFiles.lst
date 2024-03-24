@@ -1,0 +1,6 @@
+UIAutomation\StandAloneTest.class
+UIAutomation\TestComponenets\BaseTest.class
+UIAutomation\SubmitOrderTest.class
+UIAutomation\ErrorValidationTest.class
+UIAutomation\TestComponenets\Retry.class
+UIAutomation\TestComponenets\ListenerTest.class

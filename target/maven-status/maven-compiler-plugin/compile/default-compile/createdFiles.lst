@@ -1,0 +1,8 @@
+UIAutomation\PageObjects\OrderPage.class
+UIAutomation\Resources\ExtentReportComponent.class
+UIAutomation\PageObjects\CartPage.class
+UIAutomation\PageObjects\CheckOutPage.class
+UIAutomation\PageObjects\LandingPage.class
+UIAutomation\AbstractComponents\AbstractComponent.class
+UIAutomation\PageObjects\ProductCataloge.class
+UIAutomation\PageObjects\ConfirmationPage.class
